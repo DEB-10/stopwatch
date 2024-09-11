@@ -1,10 +1,10 @@
 body{
-    background-image:url('C:/Users/DEBASISH GUHA/Downloads/pexels-njeromin-19161535.jpg');
+    background-image:url('backgoundimg.jpg');
     font-family: 'Inconsolata', monospace;
     background: linear-gradient(
         rgba(0, 0, 0,0.7),
         rgba(0, 0, 0,0.7)
-    ),url('C:/Users/DEBASISH GUHA/Downloads/pexels-njeromin-19161535.jpg');
+    ),url('backgoundimg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
